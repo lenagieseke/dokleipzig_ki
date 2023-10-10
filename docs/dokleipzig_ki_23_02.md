@@ -31,7 +31,6 @@ layout:false
 --
     * ChatGPT
     * Bildgenerierung
-    * Schwache KI
 
 ???
 .task[COMMENT:]  
