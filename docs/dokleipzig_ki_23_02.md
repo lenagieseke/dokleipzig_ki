@@ -19,82 +19,40 @@ class: center, middle, inverse
 ???
 .task[COMMENT:]  
 
-Björn und ich möchten einen kurzen Impuls zu Thema KI geben, und zwar...
+Björn Stockleben und ich möchten nun kurzen Impuls zu Thema KI im Film geben, und zwar...
 
 ---
 layout:false
 
 ## Agenda
 
-* Grundlagen 
+Teil 1
 
---
-    * ChatGPT
-    * Bildgenerierung
+### Grundlagen am Beispiel von ChatGPT
 
 ???
 .task[COMMENT:]  
-...werde ich auf Begrifflichkeiten und ein paar Grundlagen eingehen
-  
-... und zwei Beispiele geben, mit dem Ziel ein intuitives Verständnis jenseits des Hypes zu vermitteln.
+...werde ich auf ein paar Grundlagen am Beispiel von ChatGPT eingehen, mit dem Ziel ein intuitives Verständnis jenseits des Hypes zu vermitteln.
 
-Björn wirft dann einen genaueren Blick auf...
+Björn Stockleben wirft dann einen genaueren Blick auf...
 
 -----------
 
 Storyline: Intuitives Verständnis jenseits des Hypes
-Take home message: KI ist kein Hexenwerk, mit einer überlegten Herangehensweise und bestimmten Regulierungen stellt es einen großen Mehrwert dar.
+
 
 --
 
-### *KI in der Filmproduktion* von Björn Stockleben
+Teil 2
+
+### KI in der Filmproduktion
+von Björn Stockleben
 
 
 ???
 .task[COMMENT:]  
 
-# Grundlagen
-
-... fallen unter den Begriff der
-
-
-
-## Schwache KI
-
-* Wahrnehmen
-* Kommunizieren
-* Planen
-* Schlussfolgern
-* **Lernen**
-
-
-
-
-schwachen KI, was bedeutet, dass bestimmte Aufgaben....
-
-typisch menschlicher Kernfähigkeiten genauso gut oder besser als von Menschen erledigt werden.
-* Wahrnehmen
-* Kommunizieren
-* Planen
-* Schlussfolgern
-* **Lernen**
-
-Aktuell stehen hier vor allem durch Daten selbstlernende Systeme im Fokus.
-
-Lernen kann man als...  
-
-
-> Lernen ist ein Prozess, durch den ein System die eigene Leistung auf Grund von Erfahrungen verbessert. - Herbert Simon
-
-
-...einen Prozess beschreiben, durch den ein System die eigene Leistung auf Grund von Erfahrungen bzw. Daten verbessert.
-
-Als Veranschaulichung was das für einen Algorithmus bzw. ein System bedeutet, hier ein kurzes Beispiel...
-
-
-*Optional*
-* Herbert Alexander Simon (June 15, 1916 – February 9, 2001) was an American economist, political scientist and cognitive psychologist, whose primary research interest was decision-making within organizations and is best known for the theories of "bounded rationality" and "satisficing".[5] He received the Nobel Prize in Economics in 1978 and the Turing Award in 1975.
-* Intelligence: reason, learn, plan, solve problems
+...KI in der Filmproduktion.
 
 
 ---
@@ -102,18 +60,31 @@ template:inverse
 
 # ChatGPT
 
+
+???
+.task[COMMENT:]  
+
+Bei sogenannter schwacher KI stehen aktuell vor allem durch Daten selbstlernende Systeme im Fokus.
+
+Lernen kann man als einen Prozess beschreiben, durch den ein System die eigene Leistung auf Grund von Erfahrungen bzw. Daten verbessert.  
+
+Diesen Prozess des Lernen möchte ich Ihnen kurz anhand von ChatGPT erklären.   
+
+Zunächst noch einmal kurz zu ChatGPT selbst,...
+
+
 ---
 .header[Grundlagen]
 
 ## ChatGPT
 
---
 
-* OpenAI, Forschungseinrichtung
+* OpenAI
+    * Forschungseinrichtung
     * Non-profit & for-profit 
-    * Partnerschaften, z.B. Microsoft hat über $10 Billionen investiert
+    * Z.B. Microsoft hat über $10 Billionen investiert
 --
-* Sich am schnellsten verbreitende Verbraucher-Software der Geschichte
+* Die sich am schnellsten verbreitende Verbraucher-Software der Geschichte
 
 ???
 .task[COMMENT:]  
@@ -125,6 +96,8 @@ template:inverse
 .header[Grundlagen | ChatGPT]
 
 ## Funktionsweise
+
+--
 
 Ergänze:
 
@@ -178,7 +151,6 @@ Antworten:
 .task[COMMENT:]  
 
 * Die statistische Substruktur von Sprache
-* Die Menge der Trainingsdaten entspräche ausgedruckt "hunderttausenden von Büchern".
 * Reinforcement learning, damit sich ChatGPT natürlich verhält
 
 
@@ -219,13 +191,19 @@ Mächtig? *Oh ja!*
 
 Risiken? *Oh ja!*
 
+
+???
+.task[COMMENT:]  
+
+KI ist kein Hexenwerk, mit einer überlegten Herangehensweise und bestimmten Regulierungen stellt es einen großen Mehrwert dar.
+
 --
 
 Intelligent?
 
 --
 
-* Kopieren, manipulieren, zusammenfügen
+* Kopieren und zusammenfügen
 * Nach dem Training ein statisches System
 
 --
@@ -287,7 +265,7 @@ On May 22, 2023, Sam Altman, Greg Brockman and Ilya Sutskever posted recommendat
 
 
 ---
-.header[Grundlagen | Schwache KI]
+.header[Grundlagen]
 
 ## Daten
 
@@ -319,7 +297,7 @@ Garbage in, garbage out... also wenn man Müll reingibt, kommt auch Müll wieder
 Ich habe z.B. kürzlich mit eine neuen Kamera, die OakD getestet. Die Kamera enthält spezielle Hardware für die Berechnung von Neuronalen Netzen. Ein Beispiel die in der Dokumentation der Kamera enthalten ist, bestimmt das Geschlecht und Alter automatisch.
 
 ---
-.header[Grundlagen | Schwache KI]
+.header[Grundlagen]
 
 ## Systematische Fehler
 
@@ -334,7 +312,7 @@ Man muss sich bewusst machen, dass die Daten von uns kommen...
 Es gibt in der Informatik den schönen Spruch, Garbage in, garbage out... also wenn man Müll reingibt, kommt auch Müll wieder raus. Und genauso ist diesen Algorithmen. Und da es so großen Datenmengen sind, können wir sie nicht so einfach auf ungewollte mögliche systematische Fehler prüfen. Und diese systematischen Fehler lauern wirklich überall. 
 
 ---
-.header[Grundlagen | Schwache KI | Daten]
+.header[Grundlagen | Daten]
 
 ## Systematische Fehler
 
@@ -352,7 +330,7 @@ Finde den Fehler.
 Während beim Alter noch eine gewisse Unsicherheit besteht, zweifelt das Programm nicht ein einziges mal daran dass ich männlich bin Und den Herstellen scheint das auch nicht aufgefallen zu sein. Naja.
 
 ---
-.header[Grundlagen | Schwache KI | Daten]
+.header[Grundlagen | Daten]
 
 
 ## Deep Learning
@@ -366,9 +344,11 @@ Während beim Alter noch eine gewisse Unsicherheit besteht, zweifelt das Program
 
 eigentlich irgendwie so aus. Es sind riesig geschachtelte Matrizen. Und die können unsere auf diesem Bereich sehr eingeschränkten Gehirne nicht verarbeiten und verstehen und das macht die Verfahren zu sogenannten Blackbox Verfahren.
 
+* Die Menge der Trainingsdaten von ChatGPT entspräche ausgedruckt "hunderttausenden von Büchern".
+
 
 ---
-.header[Grundlagen | Schwache KI | Daten]
+.header[Grundlagen | Daten]
 
 ## Alignment Efforts
 
@@ -394,18 +374,13 @@ In comparison, the Pantheon project ranks people, among others, by the number of
 The results from GPT-3.5 are more female, more diverse, and less religious than the Pantheon ranking. It is worth noting that ranked fourth is a Kenyan social, environmental, and political activist named Wangari Maathai. It is also worth noting that Rachel Carson, Jane Goodall, and Wangari Maathai all appear in the same cluster on the map around the fields of Geography, Nature, and Environment.
 
 
-
-
----
-template:inverse
-
 # Bilder
 
----
+
 
 .center[<img src="img/pseudomnesia.png" alt="pseudomnesia" style="width:60%;">]  
 
----
+
 .header[Bildgenerierung]
 
 ## DALL·E 2
@@ -421,7 +396,7 @@ Sony World Photography Awards, 2023: creative photo category winner.
 
 .footnote[[[Allison Parshall. 2023. *How This AI Image Won a Major Photography Competition*. Scientific American.]](https://www.scientificamerican.com/article/how-my-ai-image-won-a-major-photography-competition/)]
 
----
+
 .header[Bildgenerierung]
 
 ## DALL·E 2
@@ -429,7 +404,7 @@ Sony World Photography Awards, 2023: creative photo category winner.
 <img src="img/pseudomnesia_a.png" alt="pseudomnesia_a" style="width:30%;">  <img src="img/pseudomnesia_b.png" alt="pseudomnesia_b" style="width:32%;">    <img src="img/pseudomnesia_c.png" alt="pseudomnesia_c" style="width:33%;">
 
 
----
+
 .header[Bildgenerierung]
 
 ## DALL·E 2
