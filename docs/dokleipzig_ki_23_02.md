@@ -26,7 +26,7 @@ layout:false
 
 ## Agenda
 
-* Begriffsklärung & Grundlagen 
+* Grundlagen 
 
 --
     * ChatGPT
@@ -50,20 +50,15 @@ Take home message: KI ist kein Hexenwerk, mit einer überlegten Herangehensweise
 
 ### *KI in der Filmproduktion* von Björn Stockleben
 
----
-template:inverse
-
-# Begriffsklärung & Grundlagen
-
 
 ???
 .task[COMMENT:]  
 
+# Grundlagen
+
 ... fallen unter den Begriff der
 
 
----
-.header[Begriffsklärung & Grundlagen]
 
 ## Schwache KI
 
@@ -73,9 +68,6 @@ template:inverse
 * Schlussfolgern
 * **Lernen**
 
-
-???
-.task[COMMENT:]  
 
 
 
@@ -92,13 +84,9 @@ Aktuell stehen hier vor allem durch Daten selbstlernende Systeme im Fokus.
 
 Lernen kann man als...  
 
---
 
 > Lernen ist ein Prozess, durch den ein System die eigene Leistung auf Grund von Erfahrungen verbessert. - Herbert Simon
 
-
-???
-.task[COMMENT:]  
 
 ...einen Prozess beschreiben, durch den ein System die eigene Leistung auf Grund von Erfahrungen bzw. Daten verbessert.
 
@@ -116,7 +104,7 @@ template:inverse
 # ChatGPT
 
 ---
-.header[Sprachmodelle]
+.header[Grundlagen]
 
 ## ChatGPT
 
@@ -135,7 +123,7 @@ template:inverse
 * $200 Millionen Umsatz in 2023, $1 Billionen in 2024 vorausgesagt
 
 ---
-.header[Sprachmodelle | ChatGPT]
+.header[Grundlagen | ChatGPT]
 
 ## Funktionsweise
 
@@ -161,7 +149,7 @@ Antworten:
 
 
 ---
-.header[Sprachmodelle | ChatGPT]
+.header[Grundlagen | ChatGPT]
 
 ## Funktionsweise
 
@@ -203,17 +191,26 @@ Die technischen Details der Funktionsweise dieser Netze sind für unsere Zwecke 
 
 Die Schichten werden Transformatorblöcke genannt und kombinieren standardmäßige neuronale Feed-Forward-Netze mit einer innovativen Technik, die als mehrköpfige Selbstaufmerksamkeit bekannt ist.
 
+---
+.header[Grundlagen | ChatGPT]
+
+## Funktionsweise
+
 Vervollständige den Satz "Computer sind nutzlos, ...":
 
 > Computer sind nutzlos, wenn sie nicht richtig programmiert oder konfiguriert sind.
 
+---
+.header[Grundlagen | ChatGPT]
+
+## Funktionsweise
 
 Vervollständige den Satz "Computer sind nutzlos, ..." von Picasso:
 
 > Entschuldigung für das Missverständnis, aber ich kann keinen Satz von Picasso finden, der mit "Computer sind nutzlos" beginnt. Picasso lebte von 1881 bis 1973, lange bevor Computer in der heutigen Form existierten. Während seines Lebens war die digitale Technologie noch nicht weit entwickelt, und es ist unwahrscheinlich, dass Picasso einen solchen Satz über Computer geäußert hat. Es könnte sein, dass das Zitat, das du erwähnst, nicht von Picasso stammt, sondern von einer anderen Quelle oder es könnte sich um eine moderne Interpretation oder Paraphrase seiner Ideen handeln.
 
 ---
-.header[Sprachmodelle]
+.header[Grundlagen]
 
 ## ChatGPT
 
@@ -287,41 +284,24 @@ Vorschlag führender KI Forscher:innen:
 On May 22, 2023, Sam Altman, Greg Brockman and Ilya Sutskever posted recommendations for the governance of superintelligence. They consider that superintelligence could happen within the next 10 years, allowing a "dramatically more prosperous future" and that "given the possibility of existential risk, we can't just be reactive". They propose creating an international watchdog organization similar to IAEA to oversee AI systems above a certain capability threshold, suggesting that relatively weak AI systems on the other side should not be overregulated. They also call for more technical safety research for superintelligences, and ask for more coordination, for example through governments launching a joint project which "many current efforts become part of"
 
 
-## Deep Learning
 
-.center[<img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;">]  
-.footnote[[[Bild: Stack Exchange]](https://tex.stackexchange.com/questions/263307/creating-a-big-matrix)]
-
-
-
-eigentlich irgendwie so aus. Es sind riesig geschachtelte Matrizen. Und die können unsere auf diesem Bereich sehr eingeschränkten Gehirne nicht verarbeiten und verstehen und das macht die Verfahren zu sogenannten Blackbox Verfahren.
 
 
 ---
-.header[Begriffsklärung & Grundlagen | Schwache KI]
+.header[Grundlagen | Schwache KI]
 
 ## Daten
-
-???
-.task[COMMENT:]  
-
-Man muss sich bewusst machen, dass die Daten von uns kommen...
 
 --
-
-.center[<img src="img/mirror_02.png" alt="mirror_02" style="width:50%;">]  
-
-
----
-.header[Begriffsklärung & Grundlagen | Schwache KI]
-
-## Daten
 
 .center[<img src="img/mirror_01.png" alt="mirror_01" style="width:50%;">]  
 
 
 ???
 .task[COMMENT:]  
+
+Man muss sich bewusst machen, dass die Daten von uns kommen...
+
 
 ...quasi die Daten sind ein Spiegel von uns, unserer Gesellschaft und in den Systemen manifestieren sich somit alle unsere Fehler, alle unsere Vorurteile.
 
@@ -340,7 +320,7 @@ Garbage in, garbage out... also wenn man Müll reingibt, kommt auch Müll wieder
 Ich habe z.B. kürzlich mit eine neuen Kamera, die OakD getestet. Die Kamera enthält spezielle Hardware für die Berechnung von Neuronalen Netzen. Ein Beispiel die in der Dokumentation der Kamera enthalten ist, bestimmt das Geschlecht und Alter automatisch.
 
 ---
-.header[Begriffsklärung & Grundlagen | Schwache KI | Daten]
+.header[Grundlagen | Schwache KI]
 
 ## Systematische Fehler
 
@@ -355,7 +335,7 @@ Man muss sich bewusst machen, dass die Daten von uns kommen...
 Es gibt in der Informatik den schönen Spruch, Garbage in, garbage out... also wenn man Müll reingibt, kommt auch Müll wieder raus. Und genauso ist diesen Algorithmen. Und da es so großen Datenmengen sind, können wir sie nicht so einfach auf ungewollte mögliche systematische Fehler prüfen. Und diese systematischen Fehler lauern wirklich überall. 
 
 ---
-.header[Begriffsklärung & Grundlagen | Schwache KI | Daten]
+.header[Grundlagen | Schwache KI | Daten]
 
 ## Systematische Fehler
 
@@ -373,7 +353,23 @@ Finde den Fehler.
 Während beim Alter noch eine gewisse Unsicherheit besteht, zweifelt das Programm nicht ein einziges mal daran dass ich männlich bin Und den Herstellen scheint das auch nicht aufgefallen zu sein. Naja.
 
 ---
-.header[Begriffsklärung & Grundlagen | Schwache KI | Daten]
+.header[Grundlagen | Schwache KI | Daten]
+
+
+## Deep Learning
+
+.center[<img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;">]  
+.footnote[[[Bild: Stack Exchange]](https://tex.stackexchange.com/questions/263307/creating-a-big-matrix)]
+
+
+???
+.task[COMMENT:]  
+
+eigentlich irgendwie so aus. Es sind riesig geschachtelte Matrizen. Und die können unsere auf diesem Bereich sehr eingeschränkten Gehirne nicht verarbeiten und verstehen und das macht die Verfahren zu sogenannten Blackbox Verfahren.
+
+
+---
+.header[Grundlagen | Schwache KI | Daten]
 
 ## Alignment Efforts
 
@@ -458,12 +454,10 @@ Boris Eldagsen:
 I used DALL-E 2, and it was all done by text prompts and inpainting and outpainting. For inpainting, you could say, “I don’t like his tie,” and you erase it and write, “I want him to have a white tie.” Then you get suggestions. And if you don’t like any of those suggestions, you start again. Outpainting [is what] you do when the frame is not large enough. You put in an additional frame so you can see his whole tie, his pants, the chair, the floor. It’s endless.
 
 
----
-template:inverse
 
 # *Schwache KI!*
 
----
+
 .header[Bildgenerierung | DALL·E 2]
 
 ## Funktionsweise
@@ -475,14 +469,9 @@ template:inverse
 
 .footnote[[[Ryan O'Connor. 2022. How DALL-E 2 Actually Works. AssemblyAI.]](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/))]
 
---
+
 * Keine einheitliche Repräsentation!
 
-
-
-
-???
-.task[COMMENT:]  
 
 Hier ist es die sehr wichtige Unterscheidung zur menschlichen Intelligenz, dass es aktuell kein oder nur sehr eingeschränktes automatisches Übertragen von Kompetenz und Wissen in einem Aufgabenbereich zu einem anderen gibt. Algorithmen haben kein abstrahierendes, übergeordnetes Verstehen. 
 
