@@ -185,39 +185,41 @@ Vervollständige den Satz "Computer sind nutzlos, ..." von Picasso:
 
 ## ChatGPT
 
-Mächtig? *Oh ja!*
 
---
-
-Risiken? *Oh ja!*
+* Kopieren und zusammenfügen
+* Nach dem Training ein statisches System
 
 
 ???
 .task[COMMENT:]  
 
-KI ist kein Hexenwerk, mit einer überlegten Herangehensweise und bestimmten Regulierungen stellt es einen großen Mehrwert dar.
+* Die Menge der Trainingsdaten von ChatGPT entspräche ausgedruckt "hunderttausenden von Büchern".
 
 --
 
-Intelligent?
+### -> *Intelligent?*
 
---
-
-* Kopieren und zusammenfügen
-* Nach dem Training ein statisches System
-
---
-
-> ChatGPT hat kein Verständnis von dem, worüber es spricht!
-
-
-  
 ???
 .task[COMMENT:]  
 
 * Analogie: Ergebnisse einer Suchmaschine schön zusammengeführt und aufbereitet.
 * Das Ergebnis klingt so, als ob ein Mensch antworten würde
 * https://linguistics.stackexchange.com/questions/45758/how-good-chatgpt-is-at-answering-questions
+
+
+--
+
+> ChatGPT hat kein Verständnis von dem, worüber es spricht!
+
+  
+
+???
+.task[COMMENT:]  
+
+* Mächtig? *Oh ja!*  
+* Risiken? *Oh ja!*
+
+KI ist kein Hexenwerk, mit einer überlegten Herangehensweise und bestimmten Regulierungen stellt es einen großen Mehrwert dar.
 
 > The system’s brilliance turns out to be the result less of a ghost in the machine than of the relentless churning of endless multiplications.
 
@@ -262,44 +264,14 @@ On May 22, 2023, Sam Altman, Greg Brockman and Ilya Sutskever posted recommendat
 
 
 
-
-
----
-.header[Grundlagen]
-
-## Daten
-
---
-
-.center[<img src="img/mirror_01.png" alt="mirror_01" style="width:50%;">]  
-
-
-???
-.task[COMMENT:]  
-
-Man muss sich bewusst machen, dass die Daten von uns kommen...
-
-
-...quasi die Daten sind ein Spiegel von uns, unserer Gesellschaft und in den Systemen manifestieren sich somit alle unsere Fehler, alle unsere Vorurteile.
-
-Es gibt in der Informatik den schönen Spruch, 
-
---
-
-> Garbage in, garbage out...
-
-
-???
-.task[COMMENT:]  
-
-Garbage in, garbage out... also wenn man Müll reingibt, kommt auch Müll wieder raus. Und genauso ist diesen Algorithmen. Und da es so großen Datenmengen sind, können wir sie nicht so einfach auf ungewollte mögliche systematische Fehler prüfen. Und diese systematischen Fehler lauern wirklich überall. 
-
-Ich habe z.B. kürzlich mit eine neuen Kamera, die OakD getestet. Die Kamera enthält spezielle Hardware für die Berechnung von Neuronalen Netzen. Ein Beispiel die in der Dokumentation der Kamera enthalten ist, bestimmt das Geschlecht und Alter automatisch.
-
 ---
 .header[Grundlagen]
 
 ## Systematische Fehler
+
+--
+
+> Garbage in, garbage out!
 
 
 ???
@@ -312,7 +284,7 @@ Man muss sich bewusst machen, dass die Daten von uns kommen...
 Es gibt in der Informatik den schönen Spruch, Garbage in, garbage out... also wenn man Müll reingibt, kommt auch Müll wieder raus. Und genauso ist diesen Algorithmen. Und da es so großen Datenmengen sind, können wir sie nicht so einfach auf ungewollte mögliche systematische Fehler prüfen. Und diese systematischen Fehler lauern wirklich überall. 
 
 ---
-.header[Grundlagen | Daten]
+.header[Grundlagen]
 
 ## Systematische Fehler
 
@@ -329,33 +301,11 @@ Finde den Fehler.
 
 Während beim Alter noch eine gewisse Unsicherheit besteht, zweifelt das Programm nicht ein einziges mal daran dass ich männlich bin Und den Herstellen scheint das auch nicht aufgefallen zu sein. Naja.
 
----
-.header[Grundlagen | Daten]
-
-
-## Deep Learning
-
-.center[<img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;">]  
-.footnote[[[Bild: Stack Exchange]](https://tex.stackexchange.com/questions/263307/creating-a-big-matrix)]
-
-
-???
-.task[COMMENT:]  
-
-eigentlich irgendwie so aus. Es sind riesig geschachtelte Matrizen. Und die können unsere auf diesem Bereich sehr eingeschränkten Gehirne nicht verarbeiten und verstehen und das macht die Verfahren zu sogenannten Blackbox Verfahren.
-
-* Die Menge der Trainingsdaten von ChatGPT entspräche ausgedruckt "hunderttausenden von Büchern".
-
 
 ---
 .header[Grundlagen | Daten]
 
 ## Alignment Efforts
-
-.center[<img src="img/worldview_02.png" alt="worldview_02" style="width:100%;">]  
-
-
-.footnote[[Kim Albrecht. 2023. [*Artificial Worldviews*](https://artificial-worldviews.kimalbrecht.com/).]]
 
 
 ???
@@ -367,93 +317,26 @@ eigentlich irgendwie so aus. Es sind riesig geschachtelte Matrizen. Und die kön
     * "List the most important humans in field in the field of subfield."
 * Anzahl der am meisten genannten Sachen / Menschen
 * "Please note that there are numerous individuals who have contributed significantly to the field of architecture, and this list only presents a small subset."
-* Secondly, the list is led by Rachel Carson and Jane Goodall. Rachel Carson is known for her book Silent Spring (1962) and for advancing the global environmental movement. Jane Goodall is considered the world's foremost expert on chimpanzees. An American marine biologist and an English primatologist and anthropologist are the two most named figures within the project.
 
-In comparison, the Pantheon project ranks people, among others, by the number of Wikipedia language editions and count of article clicks. In this ranking, the first female is Mary, mother of Jesus, at rank 33 (accessed on 7th of August 2023). Muhammad, Isaac Newton, and Jesus are the top-ranked figures within the Pantheon project.
+--
 
-The results from GPT-3.5 are more female, more diverse, and less religious than the Pantheon ranking. It is worth noting that ranked fourth is a Kenyan social, environmental, and political activist named Wangari Maathai. It is also worth noting that Rachel Carson, Jane Goodall, and Wangari Maathai all appear in the same cluster on the map around the fields of Geography, Nature, and Environment.
-
-
-# Bilder
+.center[<img src="img/worldview_02.png" alt="worldview_02" style="width:100%;">]  
 
 
-
-.center[<img src="img/pseudomnesia.png" alt="pseudomnesia" style="width:60%;">]  
-
-
-.header[Bildgenerierung]
-
-## DALL·E 2
-  
-<img src="img/pseudomnesia.png" alt="pseudomnesia" style="width:22%;"> 
-
-*The Electrician*, from the series PSEUDOMNESIA, 2022.  
-Credit: Boris Eldagsen, co-created with DALLE2  
-Courtesy of Photo Edition Berlin
-
-Sony World Photography Awards, 2023: creative photo category winner.
-
-
-.footnote[[[Allison Parshall. 2023. *How This AI Image Won a Major Photography Competition*. Scientific American.]](https://www.scientificamerican.com/article/how-my-ai-image-won-a-major-photography-competition/)]
-
-
-.header[Bildgenerierung]
-
-## DALL·E 2
-  
-<img src="img/pseudomnesia_a.png" alt="pseudomnesia_a" style="width:30%;">  <img src="img/pseudomnesia_b.png" alt="pseudomnesia_b" style="width:32%;">    <img src="img/pseudomnesia_c.png" alt="pseudomnesia_c" style="width:33%;">
-
-
-
-.header[Bildgenerierung]
-
-## DALL·E 2
-  
-<img src="img/pseudomnesia.png" alt="pseudomnesia" style="width:22%;"> 
-
-Boris Eldagsen:
-  
-> For me, as an artist, AI generators are absolute freedom.
-
-
-.footnote[[[Allison Parshall. 2023. *How This AI Image Won a Major Photography Competition*. Scientific American.]](https://www.scientificamerican.com/article/how-my-ai-image-won-a-major-photography-competition/)]
+.footnote[[Kim Albrecht. 2023. [*Artificial Worldviews*](https://artificial-worldviews.kimalbrecht.com/).]]
 
 
 ???
 .task[COMMENT:]  
 
-> Let's call it promptography?
+* Secondly, the list is led by Rachel Carson and Jane Goodall. Rachel Carson is known for her book Silent Spring (1962) and for advancing the global environmental movement. Jane Goodall is considered the world's foremost expert on chimpanzees. An American marine biologist and an English primatologist and anthropologist are the two most named figures within the project.
 
+It is worth noting that ranked fourth is a Kenyan social, environmental, and political activist named Wangari Maathai. It is also worth noting that Rachel Carson, Jane Goodall, and Wangari Maathai all appear in the same cluster on the map around the fields of Geography, Nature, and Environment.
 
-I used DALL-E 2, and it was all done by text prompts and inpainting and outpainting. For inpainting, you could say, “I don’t like his tie,” and you erase it and write, “I want him to have a white tie.” Then you get suggestions. And if you don’t like any of those suggestions, you start again. Outpainting [is what] you do when the frame is not large enough. You put in an additional frame so you can see his whole tie, his pants, the chair, the floor. It’s endless.
+In comparison, the Pantheon project ranks people, among others, by the number of Wikipedia language editions and count of article clicks. In this ranking, the first female is Mary, mother of Jesus, at rank 33 (accessed on 7th of August 2023). Muhammad, Isaac Newton, and Jesus are the top-ranked figures within the Pantheon project.
 
+The results from GPT-3.5 are more female, more diverse, and less religious than the Pantheon ranking. 
 
-
-# *Schwache KI!*
-
-
-.header[Bildgenerierung | DALL·E 2]
-
-## Funktionsweise
-
-
-.center[<img src="img/dalle_01.png" alt="pseudomnesia" style="width:100%;">] 
-
-* Expliziter Übersetzungsschritt von Text zu Bild
-
-.footnote[[[Ryan O'Connor. 2022. How DALL-E 2 Actually Works. AssemblyAI.]](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/))]
-
-
-* Keine einheitliche Repräsentation!
-
-
-Hier ist es die sehr wichtige Unterscheidung zur menschlichen Intelligenz, dass es aktuell kein oder nur sehr eingeschränktes automatisches Übertragen von Kompetenz und Wissen in einem Aufgabenbereich zu einem anderen gibt. Algorithmen haben kein abstrahierendes, übergeordnetes Verstehen. 
-
--------------------
-
- 1. First, a text prompt is input into a text encoder that is trained to map the prompt to a representation space.
-2. Next, a model called the prior maps the text encoding to a corresponding image encoding that captures the semantic information of the prompt contained in the text encoding.
-3. Finally, an image decoder stochastically generates an image which is a visual manifestation of this semantic information.
 
 
 
