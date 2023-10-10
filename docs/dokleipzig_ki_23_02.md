@@ -9,7 +9,7 @@ class: center, middle, inverse
   
 # *KI im Film*
 
-### Björn Stockleben & Lena Gieseke
+### Prof. Dr. Björn Stockleben & Prof. Dr. Lena Gieseke
 
 
 #### 11.10.2023 | MDR Panel | DOK Leipzik
@@ -31,6 +31,7 @@ layout:false
 --
     * ChatGPT
     * Bildgenerierung
+    * Schwache KI
 
 ???
 .task[COMMENT:]  
@@ -286,17 +287,12 @@ Vorschlag führender KI Forscher:innen:
 On May 22, 2023, Sam Altman, Greg Brockman and Ilya Sutskever posted recommendations for the governance of superintelligence. They consider that superintelligence could happen within the next 10 years, allowing a "dramatically more prosperous future" and that "given the possibility of existential risk, we can't just be reactive". They propose creating an international watchdog organization similar to IAEA to oversee AI systems above a certain capability threshold, suggesting that relatively weak AI systems on the other side should not be overregulated. They also call for more technical safety research for superintelligences, and ask for more coordination, for example through governments launching a joint project which "many current efforts become part of"
 
 
----
-.header[Begriffsklärung & Grundlagen | Schwache KI]
-
 ## Deep Learning
 
 .center[<img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;"><img src="img/matrix_01.png" alt="matrix_01" style="width:48%;">]  
 .footnote[[[Bild: Stack Exchange]](https://tex.stackexchange.com/questions/263307/creating-a-big-matrix)]
 
 
-???
-.task[COMMENT:]  
 
 eigentlich irgendwie so aus. Es sind riesig geschachtelte Matrizen. Und die können unsere auf diesem Bereich sehr eingeschränkten Gehirne nicht verarbeiten und verstehen und das macht die Verfahren zu sogenannten Blackbox Verfahren.
 
@@ -477,10 +473,12 @@ template:inverse
 
 * Expliziter Übersetzungsschritt von Text zu Bild
 
+.footnote[[[Ryan O'Connor. 2022. How DALL-E 2 Actually Works. AssemblyAI.]](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/))]
+
 --
 * Keine einheitliche Repräsentation!
 
-.footnote[[[Ryan O'Connor. 2022. How DALL-E 2 Actually Works. AssemblyAI.]](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/))]
+
 
 
 ???
