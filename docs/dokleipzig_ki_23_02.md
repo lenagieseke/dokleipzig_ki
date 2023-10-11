@@ -11,6 +11,7 @@ class: center, middle, inverse
 
 ### Prof. Dr. Björn Stockleben & Prof. Dr. Lena Gieseke
 
+.center[<img src="./img/cx_filmuni_logo.png" alt="cx_filmuni_logo" style="width:90%;">]
 
 #### 11.10.2023 | MDR Panel | DOK Leipzig
 
