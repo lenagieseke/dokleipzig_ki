@@ -7,12 +7,12 @@ class: center, middle, inverse
 
 #### Impulsvortrag 
   
-# *KI im Film*
+# *KI im Dokumentarfilm*
 
 ### Prof. Dr. Björn Stockleben & Prof. Dr. Lena Gieseke
 
 
-#### 11.10.2023 | MDR Panel | DOK Leipzik
+#### 11.10.2023 | MDR Panel | DOK Leipzig
 
 
 

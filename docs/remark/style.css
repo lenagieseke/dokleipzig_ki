@@ -81,10 +81,10 @@ code {
     color: #000000;
 
     background:
-    radial-gradient(ellipse at top     left, rgb(25, 0, 113)  15% , transparent 60%), 
-    radial-gradient(ellipse at bottom  left, rgb(178, 0, 206)  15% , transparent 60%),
-    radial-gradient(ellipse at top    right, rgb(0, 251, 255) 15% , transparent 60%),
-    radial-gradient(ellipse at bottom right, rgb(255, 0, 72)   15% , transparent 60%)
+    radial-gradient(ellipse at top     left, rgb(0, 97, 110)  15% , transparent 60%), 
+    radial-gradient(ellipse at bottom  left, rgb(255, 0, 136)  15% , transparent 60%),
+    radial-gradient(ellipse at top    right, rgb(230, 0, 124) 15% , transparent 60%),
+    radial-gradient(ellipse at bottom right, rgb(0, 139, 139)   15% , transparent 60%)
 }
 
 .inverse h1, .inverse h2, .inverse h3 {
